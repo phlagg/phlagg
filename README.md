@@ -47,7 +47,7 @@ technical_background:
   ]
   
 currently_learning: ["Python, TensorFlow, C++20"]
-current_linux_distro: ["Xero Linux"]
+current_linux_distro: ["XeroLinux"]
   ```
 ---  
   
