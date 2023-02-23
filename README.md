@@ -46,7 +46,7 @@ technical_background:
     
   ]
   
-currently_learning: ["Python, Tensor Flow, C++20"]
+currently_learning: ["Python, TensorFlow, C++20"]
   ```
 ---  
   
