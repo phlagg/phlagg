@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> &nbsp;About Me</h2>
 
 ```yaml
 name: Michael Woods
@@ -64,11 +64,11 @@ current_linux_distro: ["XeroLinux"]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://xerolinux.xyz/static/media/logo.be15eace0a9cd4b33a72e4ab9e40b979.svg" alt="xero" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
+
 
