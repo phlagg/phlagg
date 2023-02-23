@@ -28,12 +28,11 @@ current_job: Director of Electronics R&D
 education:
   [
     "Self-Taught Embedded Developer",
-    "Professional Engineer (P.Eng.)"
     "Bachelor's in Electrical Engineering",
   ]
 company: Novarc Technologies Inc.
 
-fields_of_interests:
+fields_of_interest:
   [
     "Embedded C/C++",
     "ARM Cortex",
@@ -43,10 +42,12 @@ fields_of_interests:
 technical_background:
   [
     "Web Development Bootcamp",
-    
+    "Professional Engineer (P.Eng.)"
+   
   ]
   
 currently_learning: ["Python, TensorFlow, C++20"]
+current_linux_distro: ["Xero Linux"]
   ```
 ---  
   
