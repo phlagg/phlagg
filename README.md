@@ -17,15 +17,6 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-
-<p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-</p>
-
-
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -56,7 +47,7 @@ technical_background:
   ]
   
 currently_learning: ["Python, Tensor Flow, C++20"]
-  
+  ```
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
