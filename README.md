@@ -23,7 +23,6 @@ located_in: Vancouver, British Columbia
 current_job: Director of Electronics R&D
 education:
   [
-    "Self-Taught Embedded Programmer",
     "Bachelor's in Electrical Engineering",
   ]
 company: Novarc Technologies Inc.
