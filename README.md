@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 ```yaml
 name: Michael Woods
 located_in: Vancouver, British Columbia
-current_job: Director of Electronics R&D
+current_job: Open to New Opportunities
+company: 
 education:
   [
     "Bachelor's in Electrical Engineering",
   ]
-company: Open to new opportunities
+
 
 fields_of_interest:
   [
