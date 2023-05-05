@@ -25,7 +25,7 @@ education:
   [
     "Bachelor's in Electrical Engineering",
   ]
-company: Novarc Technologies Inc.
+company: Open to new opportunities
 
 fields_of_interest:
   [
