@@ -39,8 +39,6 @@ technical_background:
   [
     "Professional Engineer (P.Eng.)",
     "Web Development Bootcamp",
-    
-   
   ]
   
 currently_learning: ["Python, TensorFlow, C++20"]
