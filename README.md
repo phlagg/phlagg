@@ -31,14 +31,15 @@ education:
 fields_of_interest:
   [
     "Embedded C/C++",
-    "ARM Cortex",
-    "PCB Design",
+    "Hardware Design",
+    "Web Development",
     "Machine Learning",
   ]
 technical_background:
   [
+    "Professional Engineer (P.Eng.)",
     "Web Development Bootcamp",
-    "Professional Engineer (P.Eng.)"
+    
    
   ]
   
