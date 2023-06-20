@@ -41,7 +41,7 @@ technical_background:
     "Web Development Bootcamp",
   ]
   
-currently_learning: ["MicroPython, FreeRTOS, C++20"]
+currently_learning: ["Qt GUI Design, FreeRTOS, C++20"]
 current_linux_distro: ["XeroLinux"]
   ```
 ---  
