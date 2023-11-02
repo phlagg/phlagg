@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ```yaml
 name: Michael Woods
 located_in: Vancouver, British Columbia
-current_job: Applications Engineer
+current_job: Embedded Applications Engineer
 company: Eaton Wireless (formerly Omnex Wireless)
 education:
   [
