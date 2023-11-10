@@ -41,7 +41,7 @@ technical_background:
     "Web Development Bootcamp",
   ]
   
-currently_learning: ["Qt Quick/QML, FreeRTOS, C++20"]
+currently_learning: ["Flutter, Qt Quick/QML, FreeRTOS, C++20"]
 current_linux_distro: ["XeroLinux"]
   ```
 ---  
