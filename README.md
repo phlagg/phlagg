@@ -24,7 +24,7 @@ current_job: Embedded Applications Engineer
 company: Eaton Wireless (formerly Omnex Wireless)
 education:
   [
-    "Bachelor's in Electrical Engineering",
+    "Bachelor's Degree in Electrical Engineering"
   ]
 
 
@@ -33,15 +33,16 @@ fields_of_interest:
     "Embedded C/C++",
     "Hardware Design",
     "Web Development",
-    "Machine Learning",
+    "Machine Learning"
   ]
 technical_background:
   [
     "Professional Engineer (P.Eng.)",
-    "Web Development Bootcamp",
+    "Former head of electrical/electronics R&D at an AI robotics startup.",
+    "Currently developing embedded applications and firmware for wireless remote controllers."
   ]
   
-currently_learning: ["Flutter, Qt Quick/QML, Python"]
+currently_learning: ["Python, Pygame, C#"]
 current_linux_distro: ["XeroLinux"]
   ```
 ---  
