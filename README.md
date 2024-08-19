@@ -43,7 +43,7 @@ technical_background:
   ]
   
 currently_learning: ["Python, Pygame, C#"]
-current_linux_distro: ["XeroLinux"]
+current_linux_distro: ["Exodia"]
   ```
 ---  
   
