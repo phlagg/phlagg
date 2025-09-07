@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ```yaml
 name: Michael Woods
 located_in: Vancouver, British Columbia
-current_job: Embedded Applications Engineer
-company: Eaton Wireless (formerly Omnex Wireless)
+current_job: Embedded Software Engineer
+company: OBD Experts Ltd.
 education:
   [
     "Bachelor's Degree in Electrical Engineering"
