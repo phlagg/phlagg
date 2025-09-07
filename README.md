@@ -39,7 +39,7 @@ technical_background:
   [
     "Professional Engineer (P.Eng.)",
     "Former head of electrical/electronics R&D at an AI robotics startup.",
-    "Currently developing embedded applications and firmware for wireless remote controllers."
+    "Currently developing software for automotive telematics and diagnostics."
   ]
   
 currently_learning: ["Python, Pygame, C#"]
