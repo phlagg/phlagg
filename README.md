@@ -42,7 +42,7 @@ technical_background:
     "Currently developing software for automotive telematics and diagnostics."
   ]
   
-currently_learning: ["Python, Pygame, C#"]
+currently_learning: ["Python, Pygame, Go"]
 current_linux_distro: ["Exodia"]
   ```
 ---  
