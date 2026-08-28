@@ -32,7 +32,6 @@ fields_of_interest:
   [
     "Embedded C/C++",
     "Hardware Design",
-    "Web Development",
     "Machine Learning"
   ]
 technical_background:
@@ -42,8 +41,8 @@ technical_background:
     "Currently developing software for automotive telematics and diagnostics."
   ]
   
-currently_learning: ["Python, Pygame, Go"]
-current_linux_distro: ["Exodia"]
+currently_learning: ["TinyGo"]
+current_linux_distro: ["Arch with customized ML4W Hyprland dotfiles"]
   ```
 ---  
   
