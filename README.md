@@ -50,7 +50,7 @@ current_linux_distro: ["Arch with customized ML4W Hyprland dotfiles"]
 <p align="left">
 
 <!-- Editors / OS -->
-<img src="https://zed.dev/images/logo.svg" alt="zed" width="45" height="45"/>
+<img src="https://zed.dev/images/logomark.svg" alt="zed" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 
 <!-- Languages -->
