@@ -1,17 +1,4 @@
-<!--
-**phlagg/phlagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ---
 
@@ -22,27 +9,55 @@ name: Michael Woods
 located_in: Vancouver, British Columbia
 current_job: Embedded Software Engineer
 company: OBD Experts Ltd.
+
 education:
   [
-    "Bachelor's Degree in Electrical Engineering"
+    "Bachelor's Degree in Electrical Engineering (BSc.)",
+    "Professional Engineer (P.Eng.), EGBC"
   ]
-
 
 fields_of_interest:
   [
-    "Embedded C/C++",
-    "Hardware Design",
-    "Machine Learning"
+    "Embedded C/C++ and RTOS development",
+    "Automotive diagnostics and communication protocols",
+    "Hardware design and low-level electronics",
+    "Machine Learning and model deployment on constrained devices",
+    "Go-based tooling and protocol simulation"
   ]
+
 technical_background:
   [
-    "Professional Engineer (P.Eng.)",
+    "Designing and implementing automotive telematics and diagnostic stacks (DoIP, UDS, ZEVonUDS).",
+    "Developing Go-based host tooling: protocol simulators, regression harnesses, CLI utilities.",
     "Former head of electrical/electronics R&D at an AI robotics startup.",
-    "Currently developing software for automotive telematics and diagnostics."
+    "Experience across motion control, PCB design, fuel-cell systems, and industrial automation.",
   ]
-  
-currently_learning: ["TinyGo"]
-current_linux_distro: ["Arch with customized ML4W Hyprland dotfiles"]
+
+currently_working_with:
+  [
+    "Go",
+    "Embedded C/C++",
+    "CAN/J1939",
+    "DoIP",
+    "ZEVonUDS",
+  ]
+
+currently_learning:
+  [
+    "TinyGo",
+    "BLE 
+  ]
+
+professional_focus:
+  [
+    "Building reliable, deterministic embedded systems.",
+    "Designing clean, testable protocol architectures.",
+  ]
+
+current_linux_distro:
+  [
+    "Arch Linux with customized ML4W Hyprland dotfiles"
+  ]
   ```
 ---  
   
