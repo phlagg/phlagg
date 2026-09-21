@@ -1,7 +1,5 @@
 
-
 ---
-
 <h2> &nbsp;About Me</h2>
 
 ```yaml
@@ -12,7 +10,7 @@ company: OBD Experts Ltd.
 
 education:
   [
-    "Bachelor's Degree in Electrical Engineering (BSc.)",
+    "Bachelor's Degree in Electrical Engineering (B.Sc.)",
     "Professional Engineer (P.Eng.), EGBC"
   ]
 
@@ -21,16 +19,15 @@ fields_of_interest:
     "Embedded C/C++ and RTOS development",
     "Automotive diagnostics and communication protocols",
     "Hardware design and low-level electronics",
-    "Machine Learning and model deployment on constrained devices",
     "Go-based tooling and protocol simulation"
   ]
 
 technical_background:
   [
-    "Designing and implementing automotive telematics and diagnostic stacks (DoIP, UDS, ZEVonUDS).",
-    "Developing Go-based host tooling: protocol simulators, regression harnesses, CLI utilities.",
     "Former head of electrical/electronics R&D at an AI robotics startup.",
-    "Experience across motion control, PCB design, fuel-cell systems, and industrial automation.",
+    "Designing and implementing automotive diagnostic stacks (DoIP, UDS, ZEVonUDS).",
+    "Developing Go-based host tooling: protocol simulators, regression harnesses, CLI utilities.",
+    "Experience across motion control, PCB design, fuel-cell systems, and industrial automation."
   ]
 
 currently_working_with:
@@ -39,19 +36,28 @@ currently_working_with:
     "Embedded C/C++",
     "CAN/J1939",
     "DoIP",
-    "ZEVonUDS",
+    "ZEVonUDS"
+  ]
+
+tooling_and_environment:
+  [
+    "Zed",
+    "CMake, Ninja",
+    "Logic analyzers, oscilloscopes, Wireshark, CANalyzer",
+    "nRF Connect, Zephyr tooling, BLE packet analyzers"
   ]
 
 currently_learning:
   [
     "TinyGo",
-    "BLE 
+    "BLE HID (GATT input devices)",
+    "BLE Audio streaming (LC3)"
   ]
 
 professional_focus:
   [
     "Building reliable, deterministic embedded systems.",
-    "Designing clean, testable protocol architectures.",
+    "Designing clean, testable protocol architectures."
   ]
 
 current_linux_distro:
@@ -70,15 +76,15 @@ current_linux_distro:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 
 <!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="45" height="45"/>
 <!-- Frameworks / Libraries -->
 
 <!-- Build / Tooling -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-plain-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45"/>
 
